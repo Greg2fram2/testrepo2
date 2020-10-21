@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  #parentDiv {
+    display: flex;
+    justify-content: center;
+  }
+
+  #div1 {
+      background-color: red;
+      width: 20px;
+      height: 20px;
+  }
+
+  #div2 {
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+  }
+}
